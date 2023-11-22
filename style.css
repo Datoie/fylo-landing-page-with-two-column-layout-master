@@ -388,6 +388,10 @@ button:hover{
     .nav-list{
         font-size: 12px;
     }
+    header {
+        margin-top: -30px;
+        
+    }
     header nav{
         gap: 39px;
         padding-top: 100px;
