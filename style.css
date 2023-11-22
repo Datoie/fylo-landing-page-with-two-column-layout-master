@@ -254,7 +254,7 @@ ul a:hover{
 /* section 1 */
 .section-1-bg{
     width: 100%;
-    margin-bottom: -35px;
+    margin-bottom: -40px;
 }
 .section-1{
     background-color: hsl(240, 33%, 98%);
@@ -325,7 +325,9 @@ button:hover{
         display: none;
     }
     .section-1-bg-mobile{
+        margin-bottom: -20px;
         display: block;
+        width: 100%;
     }
     body{
         text-align: center;
@@ -377,9 +379,6 @@ button:hover{
     .footer-container{
         gap: 40px;
     }
-    .section-1-bg-mobile{
-        margin-bottom: -20px;
-    }
     .fa-facebook:before{
         right:  0;
     }
@@ -409,9 +408,6 @@ button:hover{
         grid-template-columns: repeat(1, 1fr);
         gap: 0;
     }
-    .section-1-bg-mobile{
-        width: 300px;
-    }
     ul{
         grid-template-columns: 1fr;
     }
@@ -440,12 +436,10 @@ button:hover{
     .section-2-text-container p{
         width: auto;
         padding: 20px;
-
     }
     header,article,.section-1,.section-2{
         width: 100%;
         padding: 20px;
-
     }
     article img{
         width: 300px;
