@@ -111,7 +111,7 @@ article {
     align-items: center;
     color: hsl(170, 45%, 43%);
     padding: 1px;
-    border-bottom: 1px solid hsl(170, 45%, 43%);
+    border-bottom: 2px solid hsl(170, 45%, 43%);
     width: 185px;
     margin-bottom: 50px;
     cursor: pointer;
